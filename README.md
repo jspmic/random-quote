@@ -4,3 +4,5 @@ Generate a random quote using API-Ninjas<hr />
 - First, create an account on https://api-ninjas.com/ (it's free)
 - Then paste your API key in the api_key file
 - Run quotes.py and you should see a quote(Provide a Category if needed)
+
+You're welcome to tell me which API is best for you! I will take a look
