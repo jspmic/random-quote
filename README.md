@@ -14,4 +14,4 @@ I intend to implement an API that uses XML rather than JSON to illustrate how we
 Checkout my <a href="https://github.com/jspmic/rest-api">rest-api</a> repository. It will provide an insight into how RESTful APIs are crafted.
 
 # Closing thought
-You're welcome to tell me which API is the coolest among others(in any domain except ML/DL, i'm a noob in those fields) and i'll take a look asap!
+You're welcome to tell me which API is the coolest among others(in any domain except ML/DL, i'm a noob in those fields) and i'll take a look ASAP!
